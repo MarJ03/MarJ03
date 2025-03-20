@@ -11,7 +11,7 @@
 
 ✔ Applying Agile principles and SCRUM methodologies to effectively organize project tasks and workflow. 📍<br>
 
-✔ Highly interested in Cloud Computing, Software Architecture, Project Management and Bussiness Intelligence.
+✔ Highly interested in Cloud Computing, Software Architecture, Project Management and Business Intelligence.
 <br>
 <br>
 </div>
