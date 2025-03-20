@@ -5,13 +5,13 @@
 <div>
 <h2 align="left">🙋 About me:</h2>
   
-✔ Computer Science and Software Engineering student at URJC 😊 <br>
+✔ Computer Science and Software Engineering student at URJC 💻 <br>
   
-✔ Currently learning new technologies and tools to improve my projects quality <br>
+✔ Currently learning new technologies and tools to improve my projects quality 🔧 <br>
 
-✔ Applying Agile principles and SCRUM methodologies to effectively organize project tasks and workflow.<br>
+✔ Applying Agile principles and SCRUM methodologies to effectively organize project tasks and workflow. 📍<br>
 
-✔ Highly interested in cloud computing, software architecture, project management and bussiness intelligence.
+✔ Highly interested in Cloud Computing, Software Architecture, Project Management and Bussiness Intelligence.
 <br>
 <br>
 </div>
@@ -26,7 +26,6 @@
         src="https://apen.es/wp-content/uploads/2020/11/Microsoft_Outlook_2013_logo.svg_-300x295.png" 
         height="30" width="40"/></a>
     
-
 <br><br>
 </p>
 
